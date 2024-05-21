@@ -10,3 +10,6 @@
 
 ### Point Cloud Auto-Encoding Result
 ![auto-encoding](https://github.com/hdkim01/CS479-Assignment_1/assets/77139808/227168d3-8325-4dfb-9692-680e1365668f)
+
+### Checkpoint Model
+The model checkpoint files that achieve the best performance for classification, segmentation, and auto-encoding are located in pointnet/checkpoints/.
